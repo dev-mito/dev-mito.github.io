@@ -1,1 +1,0 @@
-var e=[{id:`file-001`,url:`/files/test.txt`,displayName:`Test File`,fileName:`test.txt`,fileType:`view`},{id:`file-002`,url:`/files/test.txt`,displayName:`Test File(download)`,fileName:`test.txt`,fileType:`download`}];export{e as files};
