@@ -12,5 +12,12 @@
         "displayName": "Test File(download)",
         "fileName": "test.txt",
         "fileType": "download"
+    },
+    {
+        "id": "file-003",
+        "url": "/files/minecraft_server.tar",
+        "displayName": "Test archive",
+        "fileName": "archive.tar",
+        "fileType": "download"
     }
 ]
